@@ -1,0 +1,21 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#container {
+    width: 72%;
+    margin: 0 auto;
+    overflow: auto;
+    clear: both;
+}
+
+.clr {
+    clear: both;
+}
+
+footer {
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
